@@ -1,8 +1,8 @@
-#**HISTORIAS DE USUARIO PROYECTO QUINIELA**
+# **HISTORIAS DE USUARIO PROYECTO QUINIELA**
 
-##**WALKING SKELETON**
+## **WALKING SKELETON**
 
-###Reglas del juego:
+### Reglas del juego:
 
 1. Reglamento del juego
 
@@ -10,7 +10,7 @@
         1.2 Checkbox para confirmar aceptación de reglamento
         1.3 Botón "Acepto reglamento"
 
-###Interfaz de registro:
+### Interfaz de registro:
 
 1. Formulario de registro
 
@@ -29,7 +29,7 @@
         1.2 Contraseña
         1.3 Botón "Ingresar"
 
-###Área de juego
+### Área de juego
 
 1. Tabla con listas de partidos y equipos
 
