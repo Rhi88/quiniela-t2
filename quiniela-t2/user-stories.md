@@ -24,7 +24,7 @@ Yo, como usuario del sitio de apuestas, deseo poder registrarme en el sitio medi
         * Edad
         * Botón "enviar"
 
-![Home page que contien Reglamento y formulario de registro](./images/Home-Quiniela.jpg)
+![](./images/Home-Quiniela.jpg)
 
 #### 2. Log in
 
