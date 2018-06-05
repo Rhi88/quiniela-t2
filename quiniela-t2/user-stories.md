@@ -21,13 +21,14 @@ Yo, como usuario del sitio de apuestas, deseo poder registrarme en el sitio medi
         * Nombre completo
         * Correo electrónico
         * Contraseña
-        * Fecha de nacimiento
-        * País de residencia
+        * Edad
         * Botón "enviar"
+
+![Home page que contien Reglamento y formulario de registro](./images/Home-Quiniela.jpg)
 
 #### 2. Log in
 
-Yo, como usuario del sitio de apuestas, deseo que, para poder ingresar a mi perfil de usuario, el sitio verigfique mi identidad con los siguientes datos:
+Yo, como usuario del sitio de apuestas, deseo que, para poder ingresar a mi perfil de usuario, el sitio verifique mi identidad con los siguientes datos:
 
         * Correo electrónico
         * Contraseña
