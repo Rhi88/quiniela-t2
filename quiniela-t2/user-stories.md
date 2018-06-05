@@ -4,40 +4,49 @@
 
 ### Reglas del juego:
 
-1. Reglamento del juego
+#### 1. Reglamento del juego
 
-        1.1 Crear un archivo HTML que contenga la lista de reglas ordenadas por números.
-        1.2 Checkbox para confirmar aceptación de reglamento
-        1.3 Botón "Acepto reglamento"
+Yo, como usuario del sitio de apuestas, deseo poder ingresar a un sitio que contenga
+
+        * La lista de reglas ordenadas por números.
+        * Checkbox para confirmar aceptación de reglamento
+        * Botón "Acepto reglamento"
 
 ### Interfaz de registro:
 
-1. Formulario de registro
+#### 1. Formulario de registro
 
-    Crear un archivo HTML que contenga formulario de registro de los siguientes datos del usuario:
+Yo, como usuario del sitio de apuestas, deseo poder registrarme en el sitio mediante un formulario que me solicite los siguientes datos:
 
-        1.1 Nombre completo
-        1.2 Correo electrónico
-        1.3 Contraseña
-        1.4 Fecha de nacimiento
-        1.5 País de residencia
-        1.6 Botón "enviar"
+        * Nombre completo
+        * Correo electrónico
+        * Contraseña
+        * Fecha de nacimiento
+        * País de residencia
+        * Botón "enviar"
 
-2. Log in
+#### 2. Log in
 
-        1.1 Correo electrónico
-        1.2 Contraseña
-        1.3 Botón "Ingresar"
+Yo, como usuario del sitio de apuestas, deseo que, para poder ingresar a mi perfil de usuario, el sitio verigfique mi identidad con los siguientes datos:
+
+        * Correo electrónico
+        * Contraseña
+        * Botón "Ingresar"
 
 ### Área de juego
 
-1. Tabla con listas de partidos y equipos
+#### 1. Tabla con listas de partidos y equipos
 
-        1.1 Crear archivo HTML que contenga la tabla con datos de equipos participantes y fechas y horarios de los juegos.
+Yo, como usuario del sitio de apuestas, deseo que el sitio que contenga:
 
-2. Conformación de apuesta
+        * Una tabla con datos de equipos participantes 
+        * Fechas y horarios de los juegos.
 
-        2.1 Checkboxes para cada partido "Gana", "Pierde", "Empata"
+#### 2. Conformación de apuesta
+
+Yo, como usuario del sitio de apuestas, deseo que, para poder realizar mi apuesta, el sitio cuente con: 
+
+        * Checkboxes para cada partido "Gana", "Pierde", "Empata"
 
 
 
