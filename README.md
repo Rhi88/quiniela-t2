@@ -34,6 +34,8 @@ Yo, como usuario del sitio de apuestas, deseo que, para poder ingresar a mi perf
         * Contraseña
         * Botón "Ingresar"
 
+![Log-In](./images/log-in.jpg)
+
 ### Área de juego
 
 #### 1. Tabla con listas de partidos y equipos
