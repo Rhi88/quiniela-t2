@@ -45,11 +45,15 @@ Yo, como usuario del sitio de apuestas, deseo que el sitio que contenga:
         * Una tabla con datos de equipos participantes 
         * Fechas y horarios de los juegos.
 
+![Área de juego](./images/area_de_juego.jpg)
+
 #### 2. Conformación de apuesta
 
 Yo, como usuario del sitio de apuestas, deseo que, para poder realizar mi apuesta, el sitio cuente con: 
 
         * Checkboxes para cada partido "Gana", "Pierde", "Empata"
+
+![Conformación de apuesta](./images/ConformacionApuesta.jpg)
 
 
 
