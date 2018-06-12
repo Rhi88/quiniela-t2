@@ -7,11 +7,12 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-    <title>Quiniela Rusia 2018</title>
-    <link rel="stylesheet" href="/css/main.css">
+    <title> Quiniela Rusia 2018</title>
+    <link rel="stylesheet" href="./css/main.css">
   </head>
 
   <body>
+    <!--Barra de navegación-->
     <header>
       <nav class="navbar navbar-inverse">
         <div class="container-fluid">
@@ -19,13 +20,52 @@
             <a class="navbar-brand" href="index.html">Quiniela Deportiva</a>
           </div>
           <ul class="nav navbar-nav navbar-right">
-            <li><a href="#"><span class="glyphicon glyphicon-user"></span>Regístrate</a></li>
-            <li><a href="#"><span class="glyphicon glyphicon-log-in"></span>Ingresar</a></li>
+            <li><a href="index.html"><span class="glyphicon glyphicon-user"></span>Regístrate</a></li>
+            <li><a href="log-in.html"><span class="glyphicon glyphicon-log-in"></span>Ingresar</a></li>
           </ul>
+          <p class="title">Quiniela Ganadora</p>
         </div>
       </nav>
     </header>
+    <main>
+      <form action="action_page.php">
+        <div class="container">
+          <h1>Registro</h1>
+          <p>Completa este formulario para crear tu cuenta</p>
 
+
+            <label for="name"><b>Nombre completo</b></label>
+            <input type="text" placeholder="Nombre Apellido" name="name" required>
+
+            <label for="email"><b>Correo electrónico</b></label>
+            <input type="email" placeholder="Correo electrónico" name="email" required>
+
+            <label for="psw"><b>Contraseña</b></label>
+            <input type="password" placeholder="Contraseña" name="psw" required>
+
+            <label for="age"><b>Edad</b></label>
+            <input type="number" placeholder="" name="age" required>
+
+
+          <p>Al crear tu cuenta aceptas las <a href="reglamento.html">reglas del juego</a>.</p>
+          <button type="submit" class="registerbtn">Registrarme</button>
+        </div>
+
+      <!--  <div class="container signin">
+          <p>Already have an account? <a href="#">Sign in</a>.</p>
+        </div>-->
+      </form>
+    </main>
+    <div class="">
+      <footer>
+        <div class="footer">
+          <ul class="">
+            <li><a href="#">Contacto</a></li>
+            <p>Todos los derechos reservados</p>
+          </ul>
+        </div>
+      </footer>
+    </div>
   </body>
 
 </html>
